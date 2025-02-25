@@ -56,7 +56,8 @@ To preview the production build:
 
  npm run preview
 
- https://tmdb-project-updated-tpwf.vercel.app/
+ https://tmdb-project-updated-a2x9.vercel.app/ 
+ 
 
 Project Structure
 shogomovies/
